@@ -1,0 +1,2 @@
+def minus_f(a,b)
+    return a-b
